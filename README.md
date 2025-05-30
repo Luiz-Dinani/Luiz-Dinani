@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Luiz-Dinani
-- 👀 I’m interested in Java and C# Web Development
-- 🌱 I’m currently learning Java Spring with JPA and ASP.NET with Linq
-- 💞️ I’m looking to collaborate on Back End development
-- 📫 How to reach me Luiz Dinani on LinkedIn
+- 👀 I’m interested in C# Web Development and projects that will help me learn more about it
+- 🌱 I’m currently working with Dotnet Core and Framework, PlSQL, Angular and a little bit of ASP with VBScript
+- 📫 You can reach me on LinkedIn: Luiz Dinani
 
 <!---
 Luiz-Dinani/Luiz-Dinani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
